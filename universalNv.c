@@ -329,6 +329,9 @@ NvValidation APP_nvValidate(uint8_t index, uint8_t value)  {
 #ifdef LEDSW
             case TYPE_LEDSW:
 #endif
+#ifdef CANCDU
+            case TYPE_CDU:
+#endif
                 break;
             default:
                 return INVALID;

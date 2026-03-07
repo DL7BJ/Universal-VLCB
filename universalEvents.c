@@ -311,7 +311,7 @@ void processActions(void) {
                     break;
                 }
                 nextAction = ACTION(nextAction);
-                nextType = (uint8_t)getNV(NV_IO_TYPE(io));
+                nextType = (uint8_t)getNV(NV_IO_TYPE(nextIo));
                 setOutputState(nextIo, nextAction, nextType);
                 if (needsStarting(nextIo, nextAction, nextType)) {
                     startOutput(nextIo, nextAction, nextType);

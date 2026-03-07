@@ -313,6 +313,9 @@ void setup(void) {
         saveNV(NV_RESPONSE_DELAY, RESPONSE_DELAY_DEFAULT);
     }
     setTimedResponseDelay((uint8_t)getNV(NV_RESPONSE_DELAY));
+    if (getNV(NV_MODULE_FLAGS) & MODULE_FLAG_NON_VALID) {
+        saveNV(NV_MODULE_FLAGS, 0);
+    }
     universalEventsInit();
 
 #ifdef ANALOGUE

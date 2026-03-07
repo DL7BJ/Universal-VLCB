@@ -171,6 +171,7 @@ extern "C" {
 
 // the module flags
 #define MODULE_FLAG_DEFAULT_EVENTS      0x01
+#define MODULE_FLAG_NON_VALID           0x80
     
 // the channel flags
 #define	FLAG_TRIGGER_INVERTED           0x01	// Whether the sense of this input or output inverted
