@@ -1,0 +1,4 @@
+/home/tom/projects/PIC/Universal-VLCB/Universal-VLCB.X/_build/CBUS_PIC_Bootloader/default/CMakeFiles/CBUS_PIC_Bootloader_default_default_XC8_compile.dir
+/home/tom/projects/PIC/Universal-VLCB/Universal-VLCB.X/_build/CBUS_PIC_Bootloader/default/CMakeFiles/CBUS_PIC_Bootloader_default_image_9DI2lrV_.dir
+/home/tom/projects/PIC/Universal-VLCB/Universal-VLCB.X/_build/CBUS_PIC_Bootloader/default/CMakeFiles/edit_cache.dir
+/home/tom/projects/PIC/Universal-VLCB/Universal-VLCB.X/_build/CBUS_PIC_Bootloader/default/CMakeFiles/rebuild_cache.dir

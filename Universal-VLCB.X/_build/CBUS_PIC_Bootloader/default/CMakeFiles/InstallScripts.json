@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tom/projects/PIC/Universal-VLCB/Universal-VLCB.X/_build/CBUS_PIC_Bootloader/default/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
