@@ -15,7 +15,7 @@
 # Precompiled Headers
 *.gch
 *.pch
-
+*.cache
 # Libraries
 *.lib
 *.a
@@ -53,6 +53,10 @@ dkms.conf
 
 # MPLAB build files
 Universal-VLCB.X/build
+Universal-VLCB.X/_build
 Universal-VLCB.X/debug
 Universal-VLCB.X/queuelogs
+Universal-VLCB.X/dist
+Universal-VLCB.X/_build/CBUS_PIC_Bootloader
+Universal-VLCB.X/cmake/CBUS_PIC_Bootloader
 
