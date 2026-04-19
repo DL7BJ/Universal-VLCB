@@ -1,0 +1,9 @@
+[submodule "VLCB-defs"]
+	path = VLCB-defs
+	url = https://github.com/DL7BJ/VLCB-defs.git
+[submodule "VLCBlib_PIC"]
+	path = VLCBlib_PIC
+	url = https://github.com/DL7BJ/VLCBlib_PIC.git
+[submodule "CBUS_PIC_Bootloader"]
+	path = CBUS_PIC_Bootloader
+	url = https://github.com/DL7BJ/CBUS_PIC_Bootloader.git
