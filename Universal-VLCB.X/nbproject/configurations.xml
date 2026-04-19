@@ -1811,7 +1811,7 @@
         <targetDevice>PIC18F26K80</targetDevice>
         <targetHeader></targetHeader>
         <targetPluginBoard></targetPluginBoard>
-        <platformTool>noID</platformTool>
+        <platformTool>pk4hybrid</platformTool>
         <languageToolchain>XC8</languageToolchain>
         <languageToolchainVersion>3.10</languageToolchainVersion>
         <platform>2</platform>
@@ -1907,7 +1907,7 @@
         <property key="call-prologues" value="false"/>
         <property key="default-bitfield-type" value="true"/>
         <property key="default-char-type" value="true"/>
-        <property key="define-macros" value="HARDWARE=HW_CANMIO;_18F66K80_FAMILY_"/>
+        <property key="define-macros" value="HARDWARE=HW_CANMIO;_18F26K80_FAMILY_"/>
         <property key="disable-optimizations" value="true"/>
         <property key="extra-include-directories"
                   value="..\;..\..\VLCB-defs;..\..\VLCBlib_PIC"/>
